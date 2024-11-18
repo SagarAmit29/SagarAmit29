@@ -6,17 +6,15 @@ ________________________________________________________________________________
 About me 
 
 
--> My name is Amit Sagar                             
--> Professional Degree - Master of Computer Application        
+-> My name is Amit Sagar      
+
+-> Professional Degree - Master of Computer Application
+
 -> Cerificate from IBM (Cognitive Class AI) in SQL
+
 -> Cerificate from IBM (Cognitive Class AI) in Python for Data Science
+
 -> Batch from IBM (Cognitive Class AI) in Python for Data Science
-
-
-
-
-
-![im8sanbe](https://github.com/user-attachments/assets/5464729a-bbbe-4205-aaa7-6f3aed4be73a)
 
 _______________________________________________________________________________________________________
 
