@@ -32,6 +32,9 @@ About me
 _______________________________________________________________________________________________________
 
 <div id="header" align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?SagarAmit29" width="100"/>
+
+<div id="header" align="center">
   <img src="https://img.shields.io/badge/LinkedIn-blue" width="100"/>
 
 
