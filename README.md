@@ -1,4 +1,6 @@
-## Hi there👋
+https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHdvaHd3YzF0bGk1Y3o3MnR2NmplYTN3bW8zYnhtOW5oaHlmanQydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YPJ5gi3MZzSjhtQTIk/giphy.gif
+
+## Hi there👋 
 ## I am Amit Sagar
 ## 🌱 Aspirant of Data Science and Machine Learning
 
