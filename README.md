@@ -24,18 +24,8 @@ About me
 -> Batch from IBM (Cognitive Class AI) in Python for Data Science
 
 
-### :hammer_and_wrench: Languages and Tools :<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/Microsoft Power BI/Microsoft Power BI-orginal-wordmark.svg" title="Microsoft Power BI" alt="Microsoft Power BI" width="40" height="40"/>&nbsp;
-</div>
-_______________________________________________________________________________________________________
 
-<div id="header" align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?SagarAmit29" width="100"/>
 
-<div id="header" align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-blue" width="100"/>
 
 
 
