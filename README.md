@@ -24,7 +24,9 @@ About me
 -> Batch from IBM (Cognitive Class AI) in Python for Data Science
 
 
-
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/amit-sagar-om2901/)
+- [GitHub](https://github.com/SagarAmit29)
 
 
 
